@@ -1,0 +1,5 @@
+PL BoasTools:Trim		Command='BoasTools:Trim'		Caption='&Trim Silkscreen'			 Description='Trim Silkscreen'							End
+
+Insertion BOAS_MENUTOOLS TargetID='MNPCB_Tools10' InsertType='After' RefID0='MNPCB_Tools30'
+    Link      BOAS_Menu PLID='BoasTools:Trim'                             End
+End
