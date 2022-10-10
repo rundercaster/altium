@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Extensions><Item HRID="BoasTools" Guid="CE6BB886-973E-4E4D-A8F5-79BDE329FAB9">
+	<Item HRID="BoasTools" Guid="CE6BB886-973E-4E4D-A8F5-79BDE329FAB9">
 		<Path>C:\ProgramData\BoasTools</Path>
 		<Status>0</Status>
 		<VaultGuid></VaultGuid>
@@ -26,7 +26,6 @@
 			<MaxDXP BuildNumber="0.0.0.0"/>
 		</PlatformVersions>
 	</Item>
-</Extensions>
 
 
 
